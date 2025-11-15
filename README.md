@@ -72,7 +72,7 @@ GitHub file-size limitations prevent uploading very large files directly.
 All high-resolution videos, installers (EasyWorship, VerseView), and full resource packages can be downloaded here:
 
 🔗 **Google Drive (Complete Download):**
-[Insert Your Google Drive Link Here]
+[*Link*](https://drive.google.com/drive/folders/1Q59ArT8F4CsfDJ2mYrJSpk_QNp2CoU6f?usp=sharing)
 
 ### 🇲🇲 Myanmar
 GitHub တွင် တင်လို့မရနိုင်အောင် ကြီးမားသော File များ—Software Installer, Video, PDF စသည့် Resource အားလုံးကို အထက်ပါ Google Drive Link မှ တစ်ခါတည်း Download လုပ်ယူနိုင်ပါသည်။
@@ -81,7 +81,7 @@ GitHub တွင် တင်လို့မရနိုင်အောင် �
 GitHub file-size rikhiah (limitations) a um ruangah file tum (large files) pawl ṭial khawh a si lo. Software Installer, Video, le resources package vialte cu a tanglei Google Drive link ah hin lak khawh a si:
 
 🔗 **Google Drive (Complete Download):**
-[Insert Your Google Drive Link Here]
+[*Link*](https://drive.google.com/drive/folders/1Q59ArT8F4CsfDJ2mYrJSpk_QNp2CoU6f?usp=sharing)
 
 ---
 
