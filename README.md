@@ -16,37 +16,6 @@ This repository contains media files, templates, videos, documents, and software
 
 ---
 
-## 📁 Folder Structure (General Overview)
-Church-Media-Campaign/
-│
-├── 1. Worship Media/
-│ ├── LowerThirds/
-│ ├── Lyrics/
-│ └── Backgrounds/
-│
-├── 2. Sermon Slides/
-│ ├── PPT/
-│ └── PDF/
-│
-├── 3. Bible Resources/
-│ ├── Study Notes/
-│ └── Guides/
-│
-├── 4. Audio & Video/
-│ ├── MP3/
-│ └── MP4/
-│
-├── 5. VerseView/
-│ └── Software & Media Files
-│
-└── README.md
-
----
-
-*(Note: Your actual folder names will appear based on your upload.)*
-
----
-
 ## 🛠 Requirements  
 Some files require the following:
 
