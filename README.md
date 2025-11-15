@@ -12,37 +12,56 @@ Khrihfabu pumhnak, online ministry le Thawngtha chimnak rian ah hman dingmi wors
 
 ---
 
-## ✨ Features (ပါဝင်သောအရာများ / A chungah a telmi hna)
+## 📂 Included Files & Resources (ပါဝင်သောအရာများ / A chungah a telmi hna)
 
-### 🇬🇧 English
-- 🎬 Worship Media and Presentation Slides
-- 🎤 Lower Third Templates & Lyric Slides
-- 📚 Bible Study PDFs and Teaching Notes
-- 🎞 MP4 Videos, Background Loops, Banners
-- 🖼 Graphics, Posters, PNG Packs
-- 💻 VerseVIEW resources & church software tools
-- ☁ Large files delivered via Google Drive
-- 🔒 Git LFS enabled
+### 1️⃣ EasyWorship Resources
+**🇬🇧 English**
+- Full EasyWorship 2009 Software.
+- **📄 PDF Guide:** `EW 2009 User Guide by Joseph.pdf`
+  *(A comprehensive step-by-step guide written in both **English & Myanmar**).*
 
-### 🇲🇲 Myanmar
-- 🎬 ဝတ်ပြုကိုးကွယ်ခြင်းဆိုင်ရာ မီဒီယာများနှင့် Presentation Slides များ
-- 🎤 သီချင်းစာသား (Lyric) နှင့် Lower Third Template များ
-- 📚 ကျမ်းစာလေ့လာခြင်း (Bible Study) PDF များနှင့် သင်ကြားရေးမှတ်စုများ
-- 🎞 MP4 ဗီဒီယိုများ၊ နောက်ခံ Background Loop များ၊ Banner များ
-- 🖼 ဂရပ်ဖစ်များ၊ ပိုစတာများနှင့် PNG Pack များ
-- 💻 VerseVIEW နှင့် အသင်းတော်သုံး ဆော့ဖ်ဝဲလ် (Software) များ
-- ☁ ဖိုင်အရွယ်အစားကြီးမားသူများကို Google Drive မှတဆင့် ရယူနိုင်ခြင်း
-- 🔒 Git LFS စနစ် အသုံးပြုထားခြင်း
+**🇲🇲 Myanmar**
+- EasyWorship 2009 Software (Full Version).
+- **📄 PDF Guide:** `EW 2009 User Guide by Joseph.pdf`
+  *(အင်္ဂလိပ် + မြန်မာ ၂ ဘာသာဖြင့် ရေးသားထားသော အသုံးပြုနည်းလမ်းညွှန် စာအုပ်ပါရှိပါသည်)။*
 
-### 🇨🇳 Hakha
-- 🎬 Pumhnak Media le Presentation Slides pawl
-- 🎤 Hla bia (Lyric) le hla cakuang (Lower Third Templates) pawl
-- 📚 Baibal Cawnnak PDF le Cawnpiaknak (Teaching Notes) pawl
-- 🎞 MP4 Videos, a hnung Background Loops, le Banners pawl
-- 🖼 Graphics, Posters, le PNG Packs pawl
-- 💻 VerseVIEW resources le church software tools
-- ☁ File a tum (large files) mi pawl Google Drive in lak khawh an si
-- 🔒 Git LFS hman a si
+**🇨🇳 Hakha**
+- EasyWorship 2009 Software (A tling in).
+- **📄 PDF Guide:** `EW 2009 User Guide by Joseph.pdf`
+  *(English + Myanmar holh pahnih in tial mi a hman ning Guide tling tein a tel).*
+
+---
+
+### 2️⃣ VerseView & Presentation Tools
+**🇬🇧 English**
+- **VerseView:** Song database and themes for VerseView software.
+- **Lyric Slides:** Pre-made templates for worship songs.
+
+**🇲🇲 Myanmar**
+- **VerseView:** VerseView ဆော့ဖ်ဝဲလ်အတွက် သီချင်း Database နှင့် Theme များ။
+- **Lyric Slides:** ဝတ်ပြုကိုးကွယ်ခြင်းအတွက် အသင့်သုံး သီချင်း Slide များ။
+
+**🇨🇳 Hakha**
+- **VerseView:** VerseView software caah Hla database le Themes pawl.
+- **Lyric Slides:** Hla saknak caah hman khawh colh mi Slide designs.
+
+---
+
+### 3️⃣ General Media Assets
+**🇬🇧 English**
+- 🎞 **Motion Backgrounds:** High-quality loops for worship.
+- 📚 **Bible Study:** Teaching notes and PDF resources.
+- 🖼 **Graphics:** Clean visuals for announcements and sermons.
+
+**🇲🇲 Myanmar**
+- 🎞 **Motion Backgrounds:** ဝတ်ပြုကိုးကွယ်ခြင်းအချိန်သုံးရန် နောက်ခံ ဗီဒီယိုများ။
+- 📚 **Bible Study:** ကျမ်းစာသင်ခန်းစာများနှင့် မှတ်စုများ။
+- 🖼 **Graphics:** ကြေငြာခြင်းနှင့် တရားဒေသနာအတွက် ပုံများ။
+
+**🇨🇳 Hakha**
+- 🎞 **Motion Backgrounds:** Hla sak lio hman ding Video loops a ttha mi pawl.
+- 📚 **Bible Study:** Baibal cawnnak le cawnpiaknak (Teaching notes).
+- 🖼 **Graphics:** Thawngtheihternak le Thawngtha chim tik hman ding hmanthlak pawl.
 
 ---
 
@@ -50,53 +69,19 @@ Khrihfabu pumhnak, online ministry le Thawngtha chimnak rian ah hman dingmi wors
 
 ### 🇬🇧 English
 GitHub file-size limitations prevent uploading very large files directly.
-All high-resolution videos, PDFs, installers, and full resource packages can be downloaded here:
+All high-resolution videos, installers (EasyWorship, VerseView), and full resource packages can be downloaded here:
 
 🔗 **Google Drive (Complete Download):**
 [Insert Your Google Drive Link Here]
 
 ### 🇲🇲 Myanmar
-GitHub တွင် တင်လို့မရနိုင်အောင် ကြီးမားသော File များ—High-Resolution Video, PDF, Installer, Template စသည့် Resource အားလုံးကို အထက်ပါ Google Drive Link မှ တစ်ခါတည်း Download လုပ်ယူနိုင်ပါသည်။
+GitHub တွင် တင်လို့မရနိုင်အောင် ကြီးမားသော File များ—Software Installer, Video, PDF စသည့် Resource အားလုံးကို အထက်ပါ Google Drive Link မှ တစ်ခါတည်း Download လုပ်ယူနိုင်ပါသည်။
 
 ### 🇨🇳 Hakha
-GitHub file-size rikhiah (limitations) a um ruangah file tum (large files) pawl ṭial khawh a si lo. Video a ṭha mi (High-res), PDF le resources package vialte cu a tanglei Google Drive link ah hin lak khawh a si:
+GitHub file-size rikhiah (limitations) a um ruangah file tum (large files) pawl ṭial khawh a si lo. Software Installer, Video, le resources package vialte cu a tanglei Google Drive link ah hin lak khawh a si:
 
 🔗 **Google Drive (Complete Download):**
-[[Drive Link](https://drive.google.com/drive/folders/1Q59ArT8F4CsfDJ2mYrJSpk_QNp2CoU6f?usp=sharing)]
-
----
-
-## 🚀 How to Use (အသုံးပြုပုံ / Hman Ningcang)
-
-### 🇬🇧 English
-1. Browse the folders based on your ministry needs.
-2. Download files individually or from Google Drive.
-3. Use resources for:
-   - Worship service presentation
-   - Livestream graphics
-   - Sermons & Bible study
-   - Youth ministry & outreach
-4. For large files, ensure **Git LFS** is installed.
-
-### 🇲🇲 Myanmar
-1. မိမိတို့ အသင်းတော်လိုအပ်ချက်အလိုက် Folder များကို ရှာဖွေပါ။
-2. ဖိုင်များကို တစ်ခုချင်းစီ (သို့) Google Drive မှတဆင့် Download ရယူပါ။
-3. ဤ Resource များကို အောက်ပါနေရာများတွင် အသုံးပြုနိုင်သည် -
-   - ဝတ်ပြုကိုးကွယ်ခြင်း အစီအစဉ်များ (Worship Service)
-   - တိုက်ရိုက်ထုတ်လွှင့်မှု ဂရပ်ဖစ်များ (Livestream)
-   - တရားဒေသနာများနှင့် ကျမ်းစာလေ့လာခြင်း (Sermons & Bible Study)
-   - လူငယ် မစ်ရှင်လုပ်ငန်းများနှင့် ဧဝံဂေလိလုပ်ငန်းများ (Outreach)
-4. File အကြီးများအတွက် **Git LFS** ကို Install လုပ်ထားကြောင်း သေချာပါစေ။
-
-### 🇨🇳 Hakha
-1. Na ministry herhning in folder pawl zoh in kawl hna.
-2. File pakhat cio in siseh, Google Drive in siseh download tuah khawh a si.
-3. Hi resources pawl hi a tanglei hna caah hman khawh a si:
-   - Pumhnak presentation tuah tikah
-   - Livestream graphics caah
-   - Thawngtha chim (Sermons) & Baibal cawnnak ah
-   - Mino rianṭuannak (Youth ministry) & Outreach rian ah
-4. File a tum mi pawl caah **Git LFS** install na tuah a hau.
+[Insert Your Google Drive Link Here]
 
 ---
 
